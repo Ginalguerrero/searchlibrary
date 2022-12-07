@@ -6,7 +6,7 @@ The challenge is to take a fully functioning Google Books API search engine buil
 
 ## Usage 
 
-## Code Snipper 
+## Code Snippet
 
 ## Demo vid
 
