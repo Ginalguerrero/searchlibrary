@@ -4,7 +4,14 @@
 
 The challenge is to take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
 
-User Story
+## Usage 
+
+## Code Snipper 
+
+## Demo vid
+
+## User Story
+```
 AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
@@ -37,4 +44,5 @@ THEN I am presented with all of the books I have saved to my account, each featu
 WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
-THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
+```  
