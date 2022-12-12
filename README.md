@@ -14,7 +14,7 @@ React
 
 JavaScript
 
-## Code Snippet
+## Deployed link 
 
-## Demo vid
+https://searchlibrary.herokuapp.com/
 
