@@ -14,6 +14,14 @@ React
 
 JavaScript
 
+## Demo 
+
+![Google Book Search](https://user-images.githubusercontent.com/112473624/209739308-96eb79e7-33cb-44bb-91cd-5a340bf46d76.gif)
+
+## Full demo vid
+
+https://drive.google.com/file/d/1vb6U1LVgzGHTkWynxpcFiwasCduVs7Mw/view
+
 ## Deployed link 
 
 https://searchlibrary.herokuapp.com/
