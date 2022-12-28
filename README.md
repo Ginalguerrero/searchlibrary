@@ -14,6 +14,12 @@ React
 
 JavaScript
 
+express-handlebars 
+
+MySQL2 
+
+Express.js API for Controllers.
+
 ## Demo 
 
 ![Google Book Search](https://user-images.githubusercontent.com/112473624/209739308-96eb79e7-33cb-44bb-91cd-5a340bf46d76.gif)
